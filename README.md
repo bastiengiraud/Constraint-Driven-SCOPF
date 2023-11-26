@@ -20,3 +20,4 @@ This repository contains the following parts:
 - The folder 'Support' contains the .py files which are imported in the main Jupyter Notebooks.
 - The folder 'Test Systems' contains the excels with the case study data.
 - The folder 'Trained Models' contains the weights of the trained models which can be used for inference.
+- The 'Figures.ipynb' files contains many different figures tried/used throughout the thesis.
