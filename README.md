@@ -2,7 +2,7 @@
 
 Code related to the submission of
 
-- B.N. Giraud, A. Rajaei, J.L. Cremer. "Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow". Submitted to PSCC 2024.
+- B.N. Giraud, A. Rajaei, J.L. Cremer. "Constraint-Driven Deep Learning for N-k Security Constrained Optimal Power Flow". Accepted to PSCC 2024.
 
 The project was performed as a master thesis for a double degree program to obtain the MSc. Electrical Engineering from TU Delft and MSc. Wind Engineering from NTNU Trondheim. The full thesis can be found at http://resolver.tudelft.nl/uuid:3ca75a9e-6c93-4955-9913-cee95acde0d8. 
 
